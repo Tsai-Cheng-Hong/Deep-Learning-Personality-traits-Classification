@@ -1,0 +1,2 @@
+https://github.com/Tsai-Cheng-Hong/Deep-Learning-Word-Embedding
+下載模型
